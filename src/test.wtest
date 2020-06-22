@@ -1,0 +1,12 @@
+import marcas.*
+import jarras.*
+import personas.*
+import carpas.*
+
+test "testX" {
+///////////////////////////MARCAS
+
+	const Hofbrau = new Roja(cantLupulo=10, paisOrigen="Alemania")
+	assert.that(true)
+
+}
